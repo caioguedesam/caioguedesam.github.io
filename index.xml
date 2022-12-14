@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caio Guedes</title>
+    <link>http://caioguedesam.github.io/</link>
+    <description>Recent content on Caio Guedes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2022, Caio Guedes</copyright>
+    <lastBuildDate>Tue, 13 Dec 2022 20:03:25 -0300</lastBuildDate><atom:link href="http://caioguedesam.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://caioguedesam.github.io/resume/</link>
+      <pubDate>Tue, 13 Dec 2022 20:10:33 -0300</pubDate>
+      
+      <guid>http://caioguedesam.github.io/resume/</guid>
+      <description>My Resume You can download my latest resume here.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://caioguedesam.github.io/about/</link>
+      <pubDate>Tue, 13 Dec 2022 20:08:59 -0300</pubDate>
+      
+      <guid>http://caioguedesam.github.io/about/</guid>
+      <description>About Me I&amp;rsquo;m Caio Guedes, a software engineer based in Belo Horizonte, MG, Brazil.
+I have been in the games industry as a programmer since 2020. My main areas of interest are computer graphics, low level programming and game engine development, which are themes of most of my studies and personal projects nowadays.
+I have graduated with a bachelor&amp;rsquo;s degree in Computer Science from Universidade Federal de Minas Gerais (UFMG).</description>
+    </item>
+    
+    <item>
+      <title>Test Post</title>
+      <link>http://caioguedesam.github.io/posts/test_post/</link>
+      <pubDate>Tue, 13 Dec 2022 20:03:25 -0300</pubDate>
+      
+      <guid>http://caioguedesam.github.io/posts/test_post/</guid>
+      <description>Test post This is a test post</description>
+    </item>
+    
+  </channel>
+</rss>
